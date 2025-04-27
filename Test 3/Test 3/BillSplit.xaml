@@ -1,0 +1,39 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Test_3.BillSplit"
+             Title="Bill Split">
+
+    <VerticalStackLayout Padding="30" Spacing="20">
+        <Label Text="Your Bill Amount is: " FontSize="20" />
+        <Label x:Name="billAmount" FontSize="32" TextColor="DarkBlue" />
+
+        <!-- People Picker -->
+        <HorizontalStackLayout>
+            <Label Text="Number of People: " FontSize="10" />
+            <Picker x:Name="numberOfPeople" Title="Number of People"
+                    SelectedItem="{Binding People}"
+                    ItemsSource="{Binding PeopleList}" />
+        </HorizontalStackLayout>
+
+        <!-- Tip Slider (Binds to TipPercentage) -->
+        <Slider x:Name="tipPercentageSlider"
+                Minimum="0"
+                Maximum="100"
+                ThumbColor="Blue"
+                MinimumTrackColor="LightBlue"
+                MaximumTrackColor="Gray"
+                Value="{Binding TipPercentage, Mode=TwoWay}" />
+
+        <Label Text="{Binding TipPercentageString}"></Label>
+
+
+        <Label Text="Tip:"></Label>
+        <Entry x:Name="BillAmount"
+               Placeholder="Tip"
+               Keyboard="Numeric"
+               Text="{Binding TipString, Mode=TwoWay}" />
+
+
+        <Label Text="{Binding IndividualAmount}"  FontSize="20" TextColor="DarkBlue"></Label>
+    </VerticalStackLayout>
+</ContentPage>

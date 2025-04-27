@@ -1,0 +1,14 @@
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\bin\Debug\net8.0\C sharp Test.exe
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\bin\Debug\net8.0\C sharp Test.deps.json
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\bin\Debug\net8.0\C sharp Test.runtimeconfig.json
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\bin\Debug\net8.0\C sharp Test.dll
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\bin\Debug\net8.0\C sharp Test.pdb
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\obj\Debug\net8.0\C sharp Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\obj\Debug\net8.0\C sharp Test.AssemblyInfoInputs.cache
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\obj\Debug\net8.0\C sharp Test.AssemblyInfo.cs
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\obj\Debug\net8.0\C sharp Test.csproj.CoreCompileInputs.cache
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\obj\Debug\net8.0\C sharp Test.dll
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\obj\Debug\net8.0\refint\C sharp Test.dll
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\obj\Debug\net8.0\C sharp Test.pdb
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\obj\Debug\net8.0\C sharp Test.genruntimeconfig.cache
+C:\Users\fhuss\source\repos\C sharp Test\C sharp Test\obj\Debug\net8.0\ref\C sharp Test.dll
